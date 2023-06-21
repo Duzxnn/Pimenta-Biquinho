@@ -21,18 +21,11 @@
 .texto1{
    font-family: Verdana, Geneva, Tahoma, sans-serif;
    font-size: 30px; }
-                
-.cabeçalho_lista_item{ 
-   margin: 25px 0px 25px 0px; 
-   font-size: 16px; }
-                
-.titulo_apresentaçao_trabalho{ 
-   font-size: 30px;}
-               
-.imagem_arvore{
-   width: 15%; }
 
-.texto1{
+.texto1{ 
    background-color: rgb(145, 203, 241);
    color: black;
-   padding: 24x 0; }  
+   padding: 24x 0; 
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 30px; }
+ 
