@@ -1,6 +1,7 @@
 *{
      margin: 0%;          
      padding: 0%; }
+
 .cabecalho{
     background-color: rgb(145, 203, 241);
     color: black;
@@ -9,8 +10,7 @@
 .cabecalho2{
     display: flex;
     justify-content: space-around; 
-    align-items: center; 
-}
+    align-items: center; }
         
 .cabecalho_imagem{
     width: 12%; }
