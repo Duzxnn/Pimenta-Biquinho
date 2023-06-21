@@ -19,7 +19,7 @@
    font-size: 50px; }
 
 .texto1{
-   font: italic;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
    font-size: 30px; }
                 
 .cabeçalho_lista_item{ 
