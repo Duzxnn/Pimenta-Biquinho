@@ -15,10 +15,10 @@
 .cabecalho_imagem{
    width: 12%; }
             
-.cabecalho{
+cabecalho{
    text-align: center;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
-   font-size: 30px; }
+   font-size: 30px; }.
 
 .texto1{
    font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -32,4 +32,13 @@
    font: italic;
    font: bold;
    font-size: 30px; }
+
+   cabecalho3{
+      text-align: center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 30px; }.
  
+      .cabecalho4{
+         display: flex;
+         justify-content: space-around; 
+         align-items: center;
