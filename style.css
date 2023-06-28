@@ -39,3 +39,12 @@
    display: flex;
    justify-content: space-around; 
    align-items: center; }
+
+   .texto2{ 
+      background-color: rgb(113, 171, 0);
+      color: black;
+      padding: 24x 0; 
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font: italic;
+      font: bold;
+      font-size: 30px; }
