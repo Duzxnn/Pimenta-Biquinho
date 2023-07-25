@@ -1,6 +1,6 @@
 *{
-   margin: 0%;
-   padding: 0%; }
+   margin: 0 auto;
+   padding: 0 auto; }
    body {background-color: rgb(113, 171, 0);}
    body {text-align: center;
 }
