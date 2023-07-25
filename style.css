@@ -1,52 +1,69 @@
 *{
-    margin: 0%;          
-    padding: 0%; }
-
+   margin: 0%;
+   padding: 0%; }
    body {background-color: rgb(113, 171, 0);}
-
-.cabecalho{
-   background-color: rgb(113, 171, 0);
-   color: black;
-   padding: 17px 0; }
+   body {text-align: center;}
 
 .cabecalho2{
-   display: flex;
-   justify-content: space-around; 
-   align-items: center; }
-              
+  display: flex;
+  justify-content: space-around; 
+  align-items: center; 
+}
+
 .cabecalho{
+   font-style: italic;
    text-align: center;
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
-   font-size: 30px; }
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px; 
+   padding: 17px;
+}
 
 .texto1{
+   width: 100%;
+   max-width: 800px;
+   margin: 0 auto;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
-   font-size: 30px; }
+  font-size: 20px; }
+
 
 .texto1{ 
-   background-color: rgb(113, 171, 0);
-   color: black;
-   padding: 24x 0; 
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
-   font: italic;
-   font: bold;
-   font-size: 30px; }
+  color: black;
+  padding: 24x 0; 
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font: italic;
+  font: bold;
+  font-size: 20px; 
+  line-height: 25px;
+}
 
 .cabecalho3{
+   font-style: italic;
    text-align: center;
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
-   font-size: 30px; }
- 
-.cabecalho4{
-   display: flex;
-   justify-content: space-around; 
-   align-items: center; }
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px; 
+   padding: 17px;
 
-   .Texto2{ 
-      background-color: rgb(113, 171, 0);
-      color: black;
-      padding: 24x 0; 
-      font-family: Verdana, Geneva, Tahoma, sans-serif;
-      font: italic;
-      font: bold;
-      font-size: 30px; }
+}
+
+.cabecalho4{
+   font-style: italic;
+  display: flex;
+  justify-content: space-around; 
+  align-items: center; }
+
+.pimenta_biquinho{
+
+}
+
+.Texto2{ 
+   width: 100%;
+   max-width: 800px;
+   margin: 0 auto;
+   color: black;
+     padding: 24x 0; 
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font: italic;
+     font: bold;
+     font-size: 20px; 
+     line-height: 25px;
+  }
